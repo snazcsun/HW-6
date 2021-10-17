@@ -1,0 +1,103 @@
+/* Color Palette
+# - color 1
+crimson
+#DC143C
+rgb(220,20,60)
+
+darkred
+#8B0000
+rgb(139,0,0)
+
+# - color 2
+deepskyblue
+#00BFFF
+rgb(0,191,255)
+
+blue
+#0000FF
+rgb(0,0,255)
+
+# - color 3
+chartreuse
+#7FFF00
+rgb(127,255,0)
+
+# - color 4
+gray
+#808080
+rgb(128,128,128)
+
+black
+#000000
+rgb(0,0,0)
+*/
+
+/* Google Fonts
+font-family: 'Raleway', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    background: #00BFFF;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 110%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 2% 2% 0;
+}
+h1,h2,h3 {
+    font-family: 'Raleway', sans-serif;
+}
+h1 {
+    font-size: 2.5em;
+}
+h2 {
+    font-size: 1.5em;
+}
+p {
+    margin-bottom: 1em;
+}
+a {
+	color: blue;
+}
+a:hover {
+	color: purple;
+}
+
+/* Header & Footer 
+------------------------------------*/
+header {
+    background: #00BFFF;
+    padding-bottom: .2em;
+	border-bottom: 1px solid #000000;
+}
+
+footer {
+	border-top: 1px solid #000000;
+    background: #00BFFF;
+	text-align: center;
+	font-size: 1em;
+	line-height: 1em;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+/* Work Experience
+------------------------------------*/
+.workExp {
+    background: #808080;
+
+}
+/* Skills
+------------------------------------*/
+.skills {
+    background: #8B0000;
+}
+
+/* Education
+------------------------------------*/
+.education {
+    background: #7FFF00;
+}
