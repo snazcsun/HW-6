@@ -1,26 +1,26 @@
 /* Color Palette
 # - color 1
-crimson
-#DC143C
-rgb(220,20,60)
-
-darkred
-#8B0000
-rgb(139,0,0)
+lightgray
+#D3D3D3
+rgb(211,211,211)
 
 # - color 2
-deepskyblue
-#00BFFF
-rgb(0,191,255)
-
-blue
-#0000FF
-rgb(0,0,255)
+darkslategrey
+#2F4F4F
+rgb(47,79,79)
 
 # - color 3
-chartreuse
-#7FFF00
-rgb(127,255,0)
+antiquewhite
+#FAEBD7
+rgb(250,235,215)
+
+whitesmoke
+#F5F5F5
+rgb(245,245,245)
+
+ivory
+#FFFFF0
+rgb(255,255,240)
 
 # - color 4
 gray
@@ -40,7 +40,7 @@ font-family: 'Ubuntu', sans-serif;
 /* Global styles 
 ------------------------------------*/
 body {
-    background: #00BFFF;
+    background: #D3D3D3;
     font-family: 'Ubuntu', sans-serif;
     font-size: 110%;
     margin-right: auto;
@@ -69,14 +69,14 @@ a:hover {
 /* Header & Footer 
 ------------------------------------*/
 header {
-    background: #00BFFF;
+    background: #FAEBD7;
     padding-bottom: .2em;
-	border-bottom: 1px solid #000000;
+	border-bottom: 2px solid #000000;
 }
 
 footer {
-	border-top: 1px solid #000000;
-    background: #00BFFF;
+	border-top: 2px solid #000000;
+    background: #2F4F4F;
 	text-align: center;
 	font-size: 1em;
 	line-height: 1em;
@@ -93,11 +93,11 @@ footer {
 /* Skills
 ------------------------------------*/
 .skills {
-    background: #8B0000;
+    background: #F5F5F5;
 }
 
 /* Education
 ------------------------------------*/
 .education {
-    background: #7FFF00;
+    background: #FFFFF0;
 }
