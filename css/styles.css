@@ -69,14 +69,14 @@ a:hover {
 /* Header & Footer 
 ------------------------------------*/
 header {
-    background: #FAEBD7;
-    padding-bottom: .2em;
+	background: #FAEBD7;
+	padding-bottom: .2em;
 	border-bottom: 2px solid #000000;
 }
 
 footer {
 	border-top: 2px solid #000000;
-    background: #2F4F4F;
+    	background: #2F4F4F;
 	text-align: center;
 	font-size: 1em;
 	line-height: 1em;
@@ -88,8 +88,8 @@ footer {
 ------------------------------------*/
 .workExp {
     background: #808080;
-
 }
+
 /* Skills
 ------------------------------------*/
 .skills {
